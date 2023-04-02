@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+.carousel {
+    width: 500px;
+    height: 500px;
+    border: 2px solid silver;
+}
+
+.amethstcard {
+    display: flex;
+    justify-content: center;
+}
+
+.card-detail {
+    width: 600px;
+    margin: 25px;
+}
+
+.card-detail h2 {
+    font-size: 50px;
+}
+
+.cardsd {
+    font-size: 20px;
+    color: #ec1e8f;
+}
+
+.card-detail ul {
+    font-size: 20px;
+    font-family: Josefin Sans;
+    letter-spacing: 1;
+}
+
+.card-detail input {
+    padding: 2px 3px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid silver;
+    box-shadow: 2px 0px 25px #ec1e8f;
+}
+
+.cardbtn {
+    padding: 10px 170px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #ec1e8f;
+    border: #ec1e8f;
+    box-shadow: 2px 0px 25px #ec1e8f;
+}
+
+.cardbtn:hover {
+    font-size: 40px;
+    background-color: #683d54;
+    box-shadow: 2px 0px 25px #2c272a;
+    color: rgb(160, 160, 214);
+
+}
+
+.cardbtn1 {
+    display: flex;
+    justify-content: center;
+}
